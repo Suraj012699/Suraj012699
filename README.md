@@ -1,3 +1,6 @@
+![MasterHead](![MasterHead](https://media.licdn.com/dms/image/D4D16AQHWLyBbaLmhpQ/profile-displaybackgroundimage-shrink_350_1400/0/1687291535047?e=1698883200&v=beta&t=kYqu7xvXb6bQ4tBR-ERTxjDJj7hubodr80olBXSSD1Q)
+)
+
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://uploads0.jovo.to/idea_attachments/840592/homework-dribbble_bigger.gif?1544706789">
