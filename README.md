@@ -1,5 +1,5 @@
-![MasterHead](![MasterHead](https://media.licdn.com/dms/image/D4D16AQHWLyBbaLmhpQ/profile-displaybackgroundimage-shrink_350_1400/0/1687291535047?e=1698883200&v=beta&t=kYqu7xvXb6bQ4tBR-ERTxjDJj7hubodr80olBXSSD1Q)
-)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGLhw08C81-LQ/profile-displaybackgroundimage-shrink_350_1400/0/1693199884343?e=1698883200&v=beta&t=nv8jnDn5VDrye3Gul3BHb-QZlJyay_oLqmeuxXVWYys)
+
 
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
